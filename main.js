@@ -113,7 +113,7 @@ oleg.present();
 oleg.present();
 console.log(oleg);
 
-var ivan = new Student('ivan', 'sidorov', '1990', [30, 40, 35, 50, 30, ]);
+var ivan = new Student('ivan', 'sidorov', '1990', [30, 40, 35, 50, 30]);
 ivan.present();
 ivan.absent();
 ivan.absent();
